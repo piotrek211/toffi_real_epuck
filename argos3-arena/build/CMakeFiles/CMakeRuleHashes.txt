@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+af9f0f23daf6f44addf1a6f3548eaa34 plugins/robots/arena/CMakeFiles/argos3plugin_simulator_arena_autogen
